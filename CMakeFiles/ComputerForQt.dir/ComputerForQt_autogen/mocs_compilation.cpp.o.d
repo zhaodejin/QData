@@ -380,6 +380,19 @@ CMakeFiles/ComputerForQt.dir/ComputerForQt_autogen/mocs_compilation.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/bitset \
+  /Users/zhaodejin/Documents/QData/ComputerForQt_autogen/KPQXEV4K53/moc_BinaryTreePaint.cpp \
+  /Users/zhaodejin/Documents/QData/ComputerForQt_autogen/KPQXEV4K53/../../include/DataStruct/BinaryTreePaint.h \
+  /Users/zhaodejin/opt/anaconda3/include/qt/QtGui/QPaintEvent \
+  /Users/zhaodejin/opt/anaconda3/include/qt/QtGui/qevent.h \
+  /Users/zhaodejin/opt/anaconda3/include/qt/QtCore/qfile.h \
+  /Users/zhaodejin/opt/anaconda3/include/qt/QtCore/qfiledevice.h \
+  /Users/zhaodejin/opt/anaconda3/include/qt/QtGui/qvector2d.h \
+  /Users/zhaodejin/opt/anaconda3/include/qt/QtGui/qtouchdevice.h \
+  /Users/zhaodejin/opt/anaconda3/include/qt/QtGui/QPainter \
+  /Users/zhaodejin/opt/anaconda3/include/qt/QtGui/qpainter.h \
+  /Users/zhaodejin/Documents/QData/include/DataStruct/BinTreeNode.h \
+  /Users/zhaodejin/Documents/QData/ComputerForQt_autogen/KPQXEV4K53/moc_BinaryTreeWindow.cpp \
+  /Users/zhaodejin/Documents/QData/ComputerForQt_autogen/KPQXEV4K53/../../include/DataStruct/BinaryTreeWindow.h \
   /Users/zhaodejin/Documents/QData/ComputerForQt_autogen/KPQXEV4K53/moc_LinkListWindow.cpp \
   /Users/zhaodejin/Documents/QData/ComputerForQt_autogen/KPQXEV4K53/../../include/DataStruct/LinkListWindow.h \
   /Users/zhaodejin/opt/anaconda3/include/qt/QtCore/QCoreApplication \
@@ -413,8 +426,6 @@ CMakeFiles/ComputerForQt.dir/ComputerForQt_autogen/mocs_compilation.cpp.o: \
   /Users/zhaodejin/opt/anaconda3/include/qt/QtCore/qelapsedtimer.h \
   /Users/zhaodejin/opt/anaconda3/include/qt/QtCore/qdir.h \
   /Users/zhaodejin/opt/anaconda3/include/qt/QtCore/qfileinfo.h \
-  /Users/zhaodejin/opt/anaconda3/include/qt/QtCore/qfile.h \
-  /Users/zhaodejin/opt/anaconda3/include/qt/QtCore/qfiledevice.h \
   /Users/zhaodejin/opt/anaconda3/include/qt/QtCore/qdiriterator.h \
   /Users/zhaodejin/opt/anaconda3/include/qt/QtCore/qeasingcurve.h \
   /Users/zhaodejin/opt/anaconda3/include/qt/QtCore/qendian.h \

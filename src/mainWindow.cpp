@@ -4,6 +4,7 @@
 #include "DataStruct/LinkListWindow.h"
 #include "DataStruct/pushButton.h"
 #include "DataStruct/ArrayWindow.h"
+#include "DataStruct/BinaryTreeWindow.h"
 #include "Networks/HTTP.h"
 #include <QDebug>
 #include <QMenuBar>
@@ -221,10 +222,12 @@ pLableOS(new QLabel(this))
         qDebug()<<pDataStructButton->isChecked()<<endl;*/
     TCPWindow *tcpWindow = new TCPWindow();
     HTTP *https = new HTTP;
+    BinaryTreeWindow *binaryTree = new BinaryTreeWindow;
     connect(this->pNetWorkButton[0], SIGNAL(clicked(bool)),https, SLOT(createHTTP()));
     connect(this->pNetWorkButton[4], SIGNAL(clicked()),tcpWindow, SLOT(createTcpWindow()));
     connect(this->pArrayButton, SIGNAL(clicked()),this, SLOT(createArray()));
     connect(this->pLinkLIstButton, SIGNAL(clicked()),this, SLOT(createLinkList()));
+    connect(this->pBinaryTreeButton, SIGNAL(clicked(bool)),binaryTree, SLOT(createBinaryTreeWindow()));
 
 
 
@@ -251,5 +254,3 @@ void mainWindow::createLinkList() {
     linklistWindow->createLinkListWindow();
 
 }
-
-

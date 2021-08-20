@@ -89,6 +89,24 @@
 			null
 		],
 		[
+			"/Users/zhaodejin/Documents/QData/include/DataStruct/BinTreeNode.h",
+			"MU",
+			"KPQXEV4K53/moc_BinTreeNode.cpp",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/include/DataStruct/BinaryTreePaint.h",
+			"MU",
+			"KPQXEV4K53/moc_BinaryTreePaint.cpp",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/include/DataStruct/BinaryTreeWindow.h",
+			"MU",
+			"KPQXEV4K53/moc_BinaryTreeWindow.cpp",
+			null
+		],
+		[
 			"/Users/zhaodejin/Documents/QData/include/DataStruct/DataTable.h",
 			"MU",
 			"KPQXEV4K53/moc_DataTable.cpp",
@@ -189,6 +207,21 @@
 		],
 		[
 			"/Users/zhaodejin/Documents/QData/src/DataStruct/ArrayWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/src/DataStruct/BinTreeNode.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/src/DataStruct/BinaryTreePaint.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/src/DataStruct/BinaryTreeWindow.cpp",
 			"MU",
 			null
 		],

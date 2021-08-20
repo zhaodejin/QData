@@ -575,7 +575,7 @@ textEditDeleteButton(new QTextEdit(this))
     labelHistoryData->setAlignment(Qt::AlignCenter);
 
     qDebug()<<"setupUi"<<endl;
-    qDebug()<<"testewrfwevfaege"<<endl;
+    //qDebug()<<"testewrfwevfaege"<<endl;
     connect(this->pAddDataButton, SIGNAL(clicked()),this, SLOT(insert()));
     qDebug()<<"connect(this->pAddDataButton, SIGNAL(click()),this->tex, SLOT(insert()));"<<endl;
 }

@@ -26,7 +26,9 @@ add_executable(${PROJECT_NAME}  src/DataStruct/main.cpp src/mainWindow.cpp inclu
         include/DataStruct/DataTable.h src/DataStruct/ArrayList.cpp include/DataStruct/ArrayList.h
         src/DataStruct/ArrayWindow.cpp include/DataStruct/ArrayWindow.h src/DataStruct/LinkListWindow.cpp
         include/DataStruct/LinkListWindow.h src/Networks/TCPWindow.cpp include/Networks/TCPWindow.h
-        src/Networks/HTTP.cpp include/Networks/HTTP.h)
+        src/Networks/HTTP.cpp include/Networks/HTTP.h src/DataStruct/BinTreeNode.cpp include/DataStruct/BinTreeNode.h
+	src/DataStruct/BinaryTreePaint.cpp include/DataStruct/BinaryTreePaint.h 
+	src/DataStruct/BinaryTreeWindow.cpp include/DataStruct/BinaryTreeWindow.h)
 target_link_libraries(${PROJECT_NAME}
         Qt5::Core
         Qt5::Gui

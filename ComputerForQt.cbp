@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ComputerForQt"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\opt\;CMake Files\..\..\opt\anaconda3\;CMake Files\..\..\opt\anaconda3\lib\;CMake Files\..\..\opt\anaconda3\lib\cmake\;CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5\;CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Core\;CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\;CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Widgets\;CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Network\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhaodejin/Documents/QData"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhaodejin/Documents/QData"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhaodejin/Documents/QData"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ComputerForQt">
+				<Option output="/Users/zhaodejin/Documents/QData/ComputerForQt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhaodejin/Documents/QData"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_NO_DEBUG"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add directory="/Users/zhaodejin/Documents/QData/ComputerForQt_autogen/include"/>
+					<Add directory="/Users/zhaodejin/Documents/QData/include"/>
+					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt"/>
+					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt/QtCore"/>
+					<Add directory="/Users/zhaodejin/opt/anaconda3/./mkspecs/macx-clang"/>
+					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt/QtGui"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers"/>
+					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt/QtWidgets"/>
+					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt/QtNetwork"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 ComputerForQt"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ComputerForQt/fast">
+				<Option output="/Users/zhaodejin/Documents/QData/ComputerForQt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhaodejin/Documents/QData"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_NO_DEBUG"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add directory="/Users/zhaodejin/Documents/QData/ComputerForQt_autogen/include"/>
+					<Add directory="/Users/zhaodejin/Documents/QData/include"/>
+					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt"/>
+					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt/QtCore"/>
+					<Add directory="/Users/zhaodejin/opt/anaconda3/./mkspecs/macx-clang"/>
+					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt/QtGui"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers"/>
+					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt/QtWidgets"/>
+					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt/QtNetwork"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 ComputerForQt/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ComputerForQt_autogen">
+				<Option working_dir="/Users/zhaodejin/Documents/QData"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 ComputerForQt_autogen"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhaodejin/Documents/QData/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhaodejin/Documents/QData/ComputerForQt_autogen/mocs_compilation.cpp">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/include/DataStruct/ArrayList.h">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/include/DataStruct/ArrayWindow.h">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/include/DataStruct/BinTreeNode.h">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/include/DataStruct/BinaryTreePaint.h">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/include/DataStruct/BinaryTreeWindow.h">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/include/DataStruct/DataTable.h">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/include/DataStruct/LinkListWindow.h">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/include/DataStruct/pushButton.h">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/include/Networks/HTTP.h">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/include/Networks/TCPWindow.h">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/include/mainWindow.h">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/src/DataStruct/ArrayList.cpp">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/src/DataStruct/ArrayWindow.cpp">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/src/DataStruct/BinTreeNode.cpp">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/src/DataStruct/BinaryTreePaint.cpp">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/src/DataStruct/BinaryTreeWindow.cpp">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/src/DataStruct/DataTable.cpp">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/src/DataStruct/LinkListWindow.cpp">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/src/DataStruct/main.cpp">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/src/DataStruct/pushButton.cpp">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/src/Networks/HTTP.cpp">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/src/Networks/TCPWindow.cpp">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/src/mainWindow.cpp">
+			<Option target="ComputerForQt"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/Users/zhaodejin/Documents/QData/../../opt/anaconda3/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\opt\anaconda3\lib\cmake\Qt5Network\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

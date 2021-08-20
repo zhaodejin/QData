@@ -214,6 +214,78 @@ src/DataStruct/ArrayWindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ComputerForQt.dir/build.make CMakeFiles/ComputerForQt.dir/src/DataStruct/ArrayWindow.cpp.s
 .PHONY : src/DataStruct/ArrayWindow.cpp.s
 
+src/DataStruct/BinTreeNode.o: src/DataStruct/BinTreeNode.cpp.o
+.PHONY : src/DataStruct/BinTreeNode.o
+
+# target to build an object file
+src/DataStruct/BinTreeNode.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ComputerForQt.dir/build.make CMakeFiles/ComputerForQt.dir/src/DataStruct/BinTreeNode.cpp.o
+.PHONY : src/DataStruct/BinTreeNode.cpp.o
+
+src/DataStruct/BinTreeNode.i: src/DataStruct/BinTreeNode.cpp.i
+.PHONY : src/DataStruct/BinTreeNode.i
+
+# target to preprocess a source file
+src/DataStruct/BinTreeNode.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ComputerForQt.dir/build.make CMakeFiles/ComputerForQt.dir/src/DataStruct/BinTreeNode.cpp.i
+.PHONY : src/DataStruct/BinTreeNode.cpp.i
+
+src/DataStruct/BinTreeNode.s: src/DataStruct/BinTreeNode.cpp.s
+.PHONY : src/DataStruct/BinTreeNode.s
+
+# target to generate assembly for a file
+src/DataStruct/BinTreeNode.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ComputerForQt.dir/build.make CMakeFiles/ComputerForQt.dir/src/DataStruct/BinTreeNode.cpp.s
+.PHONY : src/DataStruct/BinTreeNode.cpp.s
+
+src/DataStruct/BinaryTreePaint.o: src/DataStruct/BinaryTreePaint.cpp.o
+.PHONY : src/DataStruct/BinaryTreePaint.o
+
+# target to build an object file
+src/DataStruct/BinaryTreePaint.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ComputerForQt.dir/build.make CMakeFiles/ComputerForQt.dir/src/DataStruct/BinaryTreePaint.cpp.o
+.PHONY : src/DataStruct/BinaryTreePaint.cpp.o
+
+src/DataStruct/BinaryTreePaint.i: src/DataStruct/BinaryTreePaint.cpp.i
+.PHONY : src/DataStruct/BinaryTreePaint.i
+
+# target to preprocess a source file
+src/DataStruct/BinaryTreePaint.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ComputerForQt.dir/build.make CMakeFiles/ComputerForQt.dir/src/DataStruct/BinaryTreePaint.cpp.i
+.PHONY : src/DataStruct/BinaryTreePaint.cpp.i
+
+src/DataStruct/BinaryTreePaint.s: src/DataStruct/BinaryTreePaint.cpp.s
+.PHONY : src/DataStruct/BinaryTreePaint.s
+
+# target to generate assembly for a file
+src/DataStruct/BinaryTreePaint.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ComputerForQt.dir/build.make CMakeFiles/ComputerForQt.dir/src/DataStruct/BinaryTreePaint.cpp.s
+.PHONY : src/DataStruct/BinaryTreePaint.cpp.s
+
+src/DataStruct/BinaryTreeWindow.o: src/DataStruct/BinaryTreeWindow.cpp.o
+.PHONY : src/DataStruct/BinaryTreeWindow.o
+
+# target to build an object file
+src/DataStruct/BinaryTreeWindow.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ComputerForQt.dir/build.make CMakeFiles/ComputerForQt.dir/src/DataStruct/BinaryTreeWindow.cpp.o
+.PHONY : src/DataStruct/BinaryTreeWindow.cpp.o
+
+src/DataStruct/BinaryTreeWindow.i: src/DataStruct/BinaryTreeWindow.cpp.i
+.PHONY : src/DataStruct/BinaryTreeWindow.i
+
+# target to preprocess a source file
+src/DataStruct/BinaryTreeWindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ComputerForQt.dir/build.make CMakeFiles/ComputerForQt.dir/src/DataStruct/BinaryTreeWindow.cpp.i
+.PHONY : src/DataStruct/BinaryTreeWindow.cpp.i
+
+src/DataStruct/BinaryTreeWindow.s: src/DataStruct/BinaryTreeWindow.cpp.s
+.PHONY : src/DataStruct/BinaryTreeWindow.s
+
+# target to generate assembly for a file
+src/DataStruct/BinaryTreeWindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ComputerForQt.dir/build.make CMakeFiles/ComputerForQt.dir/src/DataStruct/BinaryTreeWindow.cpp.s
+.PHONY : src/DataStruct/BinaryTreeWindow.cpp.s
+
 src/DataStruct/DataTable.o: src/DataStruct/DataTable.cpp.o
 .PHONY : src/DataStruct/DataTable.o
 
@@ -401,6 +473,15 @@ help:
 	@echo "... src/DataStruct/ArrayWindow.o"
 	@echo "... src/DataStruct/ArrayWindow.i"
 	@echo "... src/DataStruct/ArrayWindow.s"
+	@echo "... src/DataStruct/BinTreeNode.o"
+	@echo "... src/DataStruct/BinTreeNode.i"
+	@echo "... src/DataStruct/BinTreeNode.s"
+	@echo "... src/DataStruct/BinaryTreePaint.o"
+	@echo "... src/DataStruct/BinaryTreePaint.i"
+	@echo "... src/DataStruct/BinaryTreePaint.s"
+	@echo "... src/DataStruct/BinaryTreeWindow.o"
+	@echo "... src/DataStruct/BinaryTreeWindow.i"
+	@echo "... src/DataStruct/BinaryTreeWindow.s"
 	@echo "... src/DataStruct/DataTable.o"
 	@echo "... src/DataStruct/DataTable.i"
 	@echo "... src/DataStruct/DataTable.s"
