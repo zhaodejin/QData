@@ -44,10 +44,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /opt/homebrew/Cellar/cmake/3.20.0/bin/cmake
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake
 
 # The command to remove a file.
-RM = /opt/homebrew/Cellar/cmake/3.20.0/bin/cmake -E rm -f
+RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -68,7 +68,7 @@ include CMakeFiles/ComputerForQt_autogen.dir/progress.make
 
 CMakeFiles/ComputerForQt_autogen:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/Users/zhaodejin/Documents/QData/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target ComputerForQt"
-	/opt/homebrew/Cellar/cmake/3.20.0/bin/cmake -E cmake_autogen /Users/zhaodejin/Documents/QData/CMakeFiles/ComputerForQt_autogen.dir/AutogenInfo.json ""
+	/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_autogen /Users/zhaodejin/Documents/QData/CMakeFiles/ComputerForQt_autogen.dir/AutogenInfo.json ""
 
 ComputerForQt_autogen: CMakeFiles/ComputerForQt_autogen
 ComputerForQt_autogen: CMakeFiles/ComputerForQt_autogen.dir/build.make
