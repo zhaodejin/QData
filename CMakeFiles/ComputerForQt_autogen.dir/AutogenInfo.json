@@ -1,0 +1,228 @@
+{
+	"BUILD_DIR" : "/Users/zhaodejin/Documents/QData/ComputerForQt_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/zhaodejin/Documents/QData",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/zhaodejin/Documents/QData",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/zhaodejin/Documents/QData",
+	"CMAKE_EXECUTABLE" : "/opt/homebrew/Cellar/cmake/3.20.0/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/zhaodejin/Documents/QData/CMakeLists.txt",
+		"/Users/zhaodejin/Documents/QData/CMakeFiles/3.20.0/CMakeSystem.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Platform/Darwin-Initialize.cmake",
+		"/Users/zhaodejin/Documents/QData/CMakeFiles/3.20.0/CMakeCCompiler.cmake",
+		"/Users/zhaodejin/Documents/QData/CMakeFiles/3.20.0/CMakeCXXCompiler.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/CMakeSystemSpecificInformation.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/CMakeGenericSystem.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/CMakeInitializeConfigs.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Platform/Darwin.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Platform/UnixPaths.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/CMakeCInformation.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/CMakeLanguageInformation.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Compiler/AppleClang-C.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Compiler/Clang.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Compiler/GNU.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Platform/Apple-AppleClang-C.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Platform/Apple-Clang-C.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Platform/Apple-Clang.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/CMakeCommonLanguageInclude.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/CMakeCXXInformation.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/CMakeLanguageInformation.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Compiler/AppleClang-CXX.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Compiler/Clang.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/Platform/Apple-Clang.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5/Qt5Config.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/CMakeParseArguments.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/CMakeParseArguments.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"/Users/zhaodejin/opt/anaconda3/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/zhaodejin/Documents/QData",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/Users/zhaodejin/Documents/QData/include/DataStruct/ArrayList.h",
+			"MU",
+			"KPQXEV4K53/moc_ArrayList.cpp",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/include/DataStruct/ArrayWindow.h",
+			"MU",
+			"KPQXEV4K53/moc_ArrayWindow.cpp",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/include/DataStruct/DataTable.h",
+			"MU",
+			"KPQXEV4K53/moc_DataTable.cpp",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/include/DataStruct/LinkListWindow.h",
+			"MU",
+			"KPQXEV4K53/moc_LinkListWindow.cpp",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/include/DataStruct/pushButton.h",
+			"MU",
+			"KPQXEV4K53/moc_pushButton.cpp",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/include/Networks/HTTP.h",
+			"MU",
+			"Q5FBTRYE2H/moc_HTTP.cpp",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/include/Networks/TCPWindow.h",
+			"MU",
+			"Q5FBTRYE2H/moc_TCPWindow.cpp",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/include/mainWindow.h",
+			"MU",
+			"6YEA5652QU/moc_mainWindow.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/zhaodejin/Documents/QData/ComputerForQt_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/zhaodejin/Documents/QData/ComputerForQt_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/zhaodejin/Documents/QData/include",
+		"/Users/zhaodejin/opt/anaconda3/include/qt",
+		"/Users/zhaodejin/opt/anaconda3/include/qt/QtCore",
+		"/Users/zhaodejin/opt/anaconda3/mkspecs/macx-clang",
+		"/Users/zhaodejin/opt/anaconda3/include/qt/QtGui",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/Users/zhaodejin/opt/anaconda3/include/qt/QtWidgets",
+		"/Users/zhaodejin/opt/anaconda3/include/qt/QtNetwork",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/opt/homebrew/Cellar/cmake/3.20.0/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/zhaodejin/Documents/QData/ComputerForQt_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/Users/zhaodejin/Documents/QData/CMakeFiles/ComputerForQt_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/zhaodejin/opt/anaconda3/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/zhaodejin/opt/anaconda3/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "/Users/zhaodejin/Documents/QData/CMakeFiles/ComputerForQt_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/zhaodejin/Documents/QData/src/DataStruct/ArrayList.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/src/DataStruct/ArrayWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/src/DataStruct/DataTable.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/src/DataStruct/LinkListWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/src/DataStruct/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/zhaodejin/Documents/QData/src/DataStruct/pushButton.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/zhaodejin/Documents/QData/src/Networks/HTTP.cpp", "MU", null ],
+		[
+			"/Users/zhaodejin/Documents/QData/src/Networks/TCPWindow.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/zhaodejin/Documents/QData/src/mainWindow.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

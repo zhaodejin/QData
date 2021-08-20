@@ -1,0 +1,4 @@
+/Users/zhaodejin/Documents/QData/CMakeFiles/rebuild_cache.dir
+/Users/zhaodejin/Documents/QData/CMakeFiles/edit_cache.dir
+/Users/zhaodejin/Documents/QData/CMakeFiles/ComputerForQt.dir
+/Users/zhaodejin/Documents/QData/CMakeFiles/ComputerForQt_autogen.dir
