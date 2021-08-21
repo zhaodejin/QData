@@ -18,7 +18,6 @@
 #include <QLCDNumber>
 #include <QDateTime>
 #include <QTimer>
-
 class mainWindow:public QWidget{
     Q_OBJECT
 public:

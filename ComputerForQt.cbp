@@ -51,6 +51,7 @@
 					<Add option="-DQT_NETWORK_LIB"/>
 					<Add directory="/Users/zhaodejin/Documents/QData/ComputerForQt_autogen/include"/>
 					<Add directory="/Users/zhaodejin/Documents/QData/include"/>
+					<Add directory="/opt/homebrew/Cellar/boost/1.75.0_2/include"/>
 					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt"/>
 					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt/QtCore"/>
 					<Add directory="/Users/zhaodejin/opt/anaconda3/./mkspecs/macx-clang"/>
@@ -80,6 +81,7 @@
 					<Add option="-DQT_NETWORK_LIB"/>
 					<Add directory="/Users/zhaodejin/Documents/QData/ComputerForQt_autogen/include"/>
 					<Add directory="/Users/zhaodejin/Documents/QData/include"/>
+					<Add directory="/opt/homebrew/Cellar/boost/1.75.0_2/include"/>
 					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt"/>
 					<Add directory="/Users/zhaodejin/opt/anaconda3/include/qt/QtCore"/>
 					<Add directory="/Users/zhaodejin/opt/anaconda3/./mkspecs/macx-clang"/>

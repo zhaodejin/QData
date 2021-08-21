@@ -15,6 +15,8 @@ find_package(Qt5 COMPONENTS
         Network
         REQUIRED)
 include_directories(include)
+include_directories(/opt/homebrew/Cellar/boost/1.75.0_2/include)
+link_directories(/opt/homebrew/Cellar/boost/1.75.0_2/lib)
 aux_source_directory(include IN_SRCS)
 aux_source_directory(include/DataStruct IN_SRCS)
 aux_source_directory(include/Networks IN_SRCS)

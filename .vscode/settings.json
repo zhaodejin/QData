@@ -1,4 +1,18 @@
 {
     "C_Cpp.errorSquiggles": "Disabled",
-    "editor.suggest.snippetsPreventQuickSuggestions": false
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "files.associations": {
+        "bit": "cpp",
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "future": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "stop_token": "cpp",
+        "streambuf": "cpp",
+        "tuple": "cpp"
+    }
 }

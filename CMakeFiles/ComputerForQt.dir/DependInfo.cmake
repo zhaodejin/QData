@@ -37,6 +37,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "ComputerForQt_autogen/include"
   "include"
+  "/opt/homebrew/Cellar/boost/1.75.0_2/include"
   "/Users/zhaodejin/opt/anaconda3/include/qt"
   "/Users/zhaodejin/opt/anaconda3/include/qt/QtCore"
   "/Users/zhaodejin/opt/anaconda3/./mkspecs/macx-clang"
